@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-```bash
+```markdown
 echo "right" > /dev/null
 
 # Header 1
