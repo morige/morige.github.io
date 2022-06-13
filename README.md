@@ -11,8 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-```markdown
+```bash
 echo "right" > /dev/null
+
+```ruby
+"Hello".method(:class).class
 
 # Header 1
 ## Header 2
